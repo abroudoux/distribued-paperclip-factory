@@ -1,10 +1,10 @@
-package abroudoux.github.distribued_paperclip_factory;
+package abroudoux.github.paperclip_factory;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class DistribuedPaperclipFactoryApplicationTests {
+class PaperclipFactoryApplicationTests {
 
 	@Test
 	void contextLoads() {

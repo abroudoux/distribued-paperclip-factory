@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>abroudoux.github</groupId>
-	<artifactId>distribued-paperclip-factory</artifactId>
+	<artifactId>paperclip-factory</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>distribued-paperclip-factory</name>
+	<name>paperclip-factory</name>
 	<description>Spring Boot &amp; Kafka introduction by simulating a paperclip factory</description>
 	<url/>
 	<licenses>

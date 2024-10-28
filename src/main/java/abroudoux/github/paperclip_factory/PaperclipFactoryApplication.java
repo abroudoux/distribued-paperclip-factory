@@ -1,4 +1,4 @@
-package abroudoux.github.distribued_paperclip_factory;
+package abroudoux.github.paperclip_factory;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -6,8 +6,8 @@ import org.springframework.scheduling.annotation.EnableScheduling;
 
 @EnableScheduling
 @SpringBootApplication
-public class DistribuedPaperclipFactoryApplication {
+public class PaperclipFactoryApplication {
 	public static void main(String[] args) {
-		SpringApplication.run(DistribuedPaperclipFactoryApplication.class, args);
+		SpringApplication.run(PaperclipFactoryApplication.class, args);
 	}
 }

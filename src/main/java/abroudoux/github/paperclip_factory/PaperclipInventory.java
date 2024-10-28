@@ -1,4 +1,4 @@
-package abroudoux.github.distribued_paperclip_factory;
+package abroudoux.github.paperclip_factory;
 
 import org.springframework.kafka.annotation.KafkaListener;
 import org.springframework.kafka.core.KafkaTemplate;
