@@ -5,10 +5,10 @@ import org.springframework.scheduling.annotation.Scheduled;
 import org.springframework.stereotype.Service;
 
 @Service
-public class PaperclipProducer {
+public class Producer {
     private final KafkaTemplate<String, String> kafkaTemplate;
 
-    public PaperclipProducer(KafkaTemplate<String, String> kafkaTemplate) {
+    public Producer(KafkaTemplate<String, String> kafkaTemplate) {
         this.kafkaTemplate = kafkaTemplate;
     }
 
